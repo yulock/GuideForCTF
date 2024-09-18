@@ -16,6 +16,7 @@
 - StackOverFlow：解决问题用
 - 国内网站：博客园、知乎、CSDN
 - 吾爱破解：找破解工具
+- PortSwigger：练习burp使用技巧的靶场
 
 ## 训练靶场
 
